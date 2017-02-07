@@ -6,7 +6,8 @@
 
 **Chrome**
 
-![这里写图片描述](http://img.blog.csdn.net/20170207134951014?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxNDI3MTExNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)![这里写图片描述](http://img.blog.csdn.net/20170207134829482?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxNDI3MTExNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](chrome.png)
+![这里写图片描述](canvas_chrome3.png)
 
 **GEM.邓紫棋**
 
