@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        
+    </head>
+    <body>
+        <img id="img" src="chrome.png" alt="">
+        <!--<canvas id="img_canvas" width="300" height="300"></canvas>-->
+        <canvas id="canvas" width="300px" height="300px" style="background:#000003"></canvas>
+        <br>
+        <button id="saveData">保存数据</button>
+        <br>
+        增加多边形
+        <input id="addpolygon" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_addpolygon" type="text">
+        <br>
+        减少多边形
+        <input id="removepolygon" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_removepolygon" type="text">
+        <br>
+        移动多边形
+        <input id="movepolygon" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_movepolygon" type="text">
+        <br>
+        RGBA
+        <input id="rgba" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_rgba" type="text">
+        <br>
+        增加点
+        <input id="addpoint" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_addpoint" type="text">
+        <br>
+        减少点
+        <input id="removepoint" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_removepoint" type="text">
+        <br>
+        移动点(big)
+        <input id="movepoint_B" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_movepoint_B" type="text">
+        <br>
+        移动点(medium)
+        <input id="movepoint_M" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_movepoint_M" type="text">
+        <br>
+        移动点(small)
+        <input id="movepoint_S" type="range" step="0.0001" min="0" max="0.02">
+        <input id="t_movepoint_S" type="text">
+        <script src="index.js"></script>
+    </body>
+</html>
